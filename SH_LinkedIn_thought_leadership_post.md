@@ -1,0 +1,1 @@
+Prompt: Generate a LinkedIn post where I share my insights on [The Topic]. Keep the content engaging and easy to understand. The post should consist of 200 words maximum. Also include relatable SEO hashtags.

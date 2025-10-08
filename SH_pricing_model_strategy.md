@@ -1,0 +1,1 @@
+Prompt: Generate strategies for determining the pricing model and pricing strategy for [your product or service]. Consider factors such as value proposition, competitive landscape, target market, and pricing elasticity to optimize revenue generation and market penetration. 

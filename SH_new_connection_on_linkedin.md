@@ -1,0 +1,1 @@
+Prompt: Give me content to start a conversation with a new connection on LinkedIn by sharing a recent industry news article or asking about their latest professional achievement. Start the dialogue on a positive and engaging note. Keep the tone conversational and limit the words to 100.

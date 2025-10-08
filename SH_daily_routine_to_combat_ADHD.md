@@ -1,0 +1,1 @@
+Prompt: I want to establish a daily routine to help manage my ADHD. Can you suggest a morning and evening routine that will help me stay organized and focused throughout the day?

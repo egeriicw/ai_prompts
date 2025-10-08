@@ -1,0 +1,1 @@
+Prompt: [upload data] Create a line graph to show the trend in [enter data set of interest, i.e website traffic] over the past year.

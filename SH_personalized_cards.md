@@ -1,0 +1,1 @@
+Prompt: I need to write a personalized [enter celebration here, e.g. Valentine's Day, birthday, holiday] card for my [relationship or group, e.g., family, coworkers]. [Include information about the person including interests, qualities you appreciate, or any specific memories you’d like to add] Please create a [tone, e.g., heartfelt, funny] message for the card.

@@ -1,0 +1,1 @@
+Prompt: You are an expert fitness coach. I am [mention the problem you’re facing in detail with context]. Generate a challenging yet engaging ‘Workout Challenge of the Week’ focused on [state fitness goal]. Ensure it’s suitable for someone with access to [mention available equipment or no equipment]. I want you to [mention how you want the output in detail with examples].

@@ -1,0 +1,1 @@
+Prompt: As a project manager, I am responsible for [project example]. The project is planned to span over [add duration] and involves multiple departments like design, development, and marketing [add context]. Please generate a comprehensive project plan that includes objectives, business case, scope, timeline, stakeholders, and success metrics in a [insert output format].

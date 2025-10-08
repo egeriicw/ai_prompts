@@ -1,0 +1,1 @@
+Prompt: Highlight key achievements from my experience at [company name] that demonstrate [specific skill] and quantify the impact with measurable results

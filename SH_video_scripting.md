@@ -1,0 +1,1 @@
+Prompt: Create a detailed script for an X-minute video on [topic]. The script should consist of an introduction, [specify the focus areas of the topic you want to be discussed], and a conclusion that encourages viewers to [state desired action].
