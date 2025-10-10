@@ -1,0 +1,1 @@
+Using the attached picture as an exact reference, generate a high-resolution professional headshot that preserves 100% of my facial features, including face shape, hair, skin, tone, and expression. Apply studio quality lighting and a soft neutral background, and adjust my attire to formal professional wear, ensuring the image exudes confidence and approachability.
