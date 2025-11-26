@@ -1,0 +1,42 @@
+Prompt: I’m stuck on [problem/decision].
+Break down my situation using the following structure:
+
+1. Diagnose the Problem (First Principles)
+Clarify the real root cause vs surface symptoms
+Identify constraints, hidden assumptions, and risks
+
+2. Generate 3–4 Strategic Options
+For each option, provide:
+Summary of the approach
+Pros and Cons
+Risks & failure modes
+Required resources (time, money, people)
+Expected short-term impact
+Expected long-term impact
+
+3. Decision Matrix (Score Each Option 1–10)
+Use a weighted scoring model that includes:
+Impact
+Effort required
+Reversibility (how easy it is to undo)
+Speed of execution
+Strategic alignment
+Risk level
+Then calculate a Total Score and rank the options.
+
+4. Risk Map (High/Medium/Low)
+Place each option in a simple risk map:
+High risk / high reward
+Low risk / medium reward
+High risk / low reward
+Low risk / high reward
+
+5. Final Recommendation
+Based on the data above, provide:
+The best option
+Why it’s best
+The first 3 steps I should take in the next 48 hours
+
+6. Bonus: If you see a better option I didn’t consider, propose it.
+
+Keep your tone objective, strategic, and practical.
