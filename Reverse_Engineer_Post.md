@@ -1,0 +1,1 @@
+Prompt: "Reverse-engineer this viral post [paste]. Identify: hook type, emotional trigger, conflict, resolution, CTA. Create 8 new posts using identical structure but for [your niche]. Each under 30 words. Make them feel original."
