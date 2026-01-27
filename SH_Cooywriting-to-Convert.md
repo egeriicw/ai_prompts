@@ -1,0 +1,1 @@
+Prompt: "You're a world-class copywriter. Rewrite this {landing page/sales pitch/email} to convert better. Make it punchy, concise, and persuasive. Use proven frameworks like PAS or AIDA. Here’s the original: {paste it}."
