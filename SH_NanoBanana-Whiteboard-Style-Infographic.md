@@ -1,0 +1,1 @@
+“[upload PDF] Transform this PDF into a professor-style whiteboard image, include diagrams, arrows, boxes, and short captions that explain the core ideas visually. Use color highlights to make concepts easy to follow.”
