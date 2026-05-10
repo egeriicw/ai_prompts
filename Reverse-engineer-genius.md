@@ -1,0 +1,1 @@
+ChatGPT Prompt: "Reverse-engineer the exact thinking process of [insert genius/historical figure] and teach me how to replicate their way of solving problems. Give me practical mental exercises to wire my brain like theirs."
